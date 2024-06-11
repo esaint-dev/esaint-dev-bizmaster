@@ -16,7 +16,7 @@ const HeroFive = () => {
                                     <span className="text-theme2"> Hotspot</span> For Real Traders.
                                 </h1>
                                 <p className="hero-text text-white">
-                                    We ventured into offering education and have trained over 1000 students from 2019 until the present.
+                                    Exchange and Trading Education
                                 </p>
                             </div>
                         </div>
