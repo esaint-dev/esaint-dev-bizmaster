@@ -40,33 +40,10 @@ const HomeFive = () => {
       {/* HeroFive */}
       <HeroFive />
 
-      
-
       {/* ServiceFive */}
       <ServiceFive />
 
-      {/* ClientThree */}
-      {/* <ClientThree /> */}
 
-      {/* AboutFive */}
-      {/* <AboutFive /> */}
-
-      {/* ProcessTwo */}
-      {/* <ProcessTwo /> */}
-    
-      {/* TestimonialFour */}
-      {/* <TestimonialFour /> */}
-
-      {/* PricingTwo */}
-      {/* <PricingTwo /> */}
-
-    
-
-      {/* TeamFour */}
-    
-
-      {/* FaqThree */}
-      
 
       {/* BlogFive */}
       <BlogFive />
