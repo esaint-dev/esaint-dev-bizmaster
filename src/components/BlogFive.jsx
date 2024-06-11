@@ -41,7 +41,7 @@ const BlogFive = () => {
                     <div className="row justify-content-center">
                         <div className="col-xl-7">
                             <div className="title-area text-center">
-                                <span className="sec-title style2 text-warning">  
+                                <span className="sec-title style2" style={{color: 'yellow'}}>  
                                     Gallery
                                 </span>     
                             </div>

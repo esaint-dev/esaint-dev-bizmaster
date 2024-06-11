@@ -118,7 +118,7 @@ const HeaderOne = () => {
             <Link to="/">
               <img src="assets/img/ifredark.png" height={200} width={250} alt="Laun" />
             </Link>
-            <button className="menu-toggle" onClick={mobileMenu}>
+            <button className="menu-toggle " onClick={mobileMenu}>
               <i className="fa fa-times" />
             </button>
           </div>

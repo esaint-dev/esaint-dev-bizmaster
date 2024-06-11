@@ -169,7 +169,7 @@ const HeaderFive = () => {
                   </ul>
                 </nav>
                 <div className="navbar-right d-inline-flex d-lg-none">
-                  <button type="button" className="menu-toggle icon-btn" onClick={mobileMenu}>
+                  <button type="button" className="menu-toggle icon-btn text-dark" onClick={mobileMenu}>
                     <i className="fas fa-bars" />
                   </button>
                 </div>
