@@ -32,7 +32,7 @@ const ServiceFive = () => {
                                         <Link to="/service-details">Exchange Arm</Link>
                                     </h4>
                                     <p className="service-card_text">
-                                        Buy & Sell <br />your crypto at <br />ease now
+                                        Buy & Sell <br />your crypto at <br />ease now!
                                     </p>
                                 </div>
                             </div>
@@ -49,7 +49,7 @@ const ServiceFive = () => {
                                     <p className="service-card_text">
                                         Avoid regrets, don't go all into the financial 
                                         market without knowledge, become an educated 
-                                        currency trader today!.
+                                        currency trader today!
                                     </p>
                                 </div>
                             </div>
