@@ -14,7 +14,7 @@ const ServiceFive = () => {
                                     Our Services
                                 </span>
                                 <h2 className="sec-title style2 text-white">
-                                    Your Business Goals with the Confidence{" "}
+                                    Reach Your Trading Goals With Confidence.{" "}
                                 </h2>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ const ServiceFive = () => {
                                         <Link to="/service-details">Exchange Arm</Link>
                                     </h4>
                                     <p className="service-card_text">
-                                    Buy & Sell <br />your crypto at <br />ease now
+                                        Buy & Sell <br />your crypto at <br />ease now
                                     </p>
                                 </div>
                             </div>
@@ -47,8 +47,9 @@ const ServiceFive = () => {
                                         <Link to="/service-details">Education Arm</Link>
                                     </h4>
                                     <p className="service-card_text">
-                                    Avoid regrets, don't go all into financial market without
-                                    knowledge, become educated currency trader today.
+                                        Avoid regrets, don't go all into the financial 
+                                        market without knowledge, become an educated 
+                                        currency trader today!.
                                     </p>
                                 </div>
                             </div>
