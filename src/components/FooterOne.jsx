@@ -86,7 +86,7 @@ const FooterOne = () => {
                     <i className="fas fa-map-marker-alt" />
                     <div className="contact-grid-details">
                       <h6>
-                        Port Harcourt, Nigeria
+                        Abuja, FCT
                         <p />
                       </h6>
                     </div>
