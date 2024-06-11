@@ -35,7 +35,7 @@ const BlogFive = () => {
         ],
     };
     return (
-        <section className='bg-dark2'>
+        <section className='bg-dark'>
             <section className="blog-area-4 space position-relative">
                 <div className="container">
                     <div className="row justify-content-center">

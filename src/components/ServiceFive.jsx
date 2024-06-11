@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const ServiceFive = () => {
     return (
-        <section className='bg-dark2'>
+        <section className='bg-dark'>
             <div className="service-area-4 space-top position-relative">
                 <div className="container">
                     <div className="row justify-content-center">
